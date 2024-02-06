@@ -1,0 +1,45 @@
+html{
+    background-color: wheat;
+}
+header{ 
+    background-color: #333;
+    color: #f2f2f2;
+    padding: 1px;
+}
+nav{
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-content: space-evenly;
+}
+nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.link{ font-size: 20px;}
+.dakoda{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.porfolio{ 
+    display: flex;
+    justify-content: center;
+}
+.my-work-1{
+    display: flex;
+    justify-content: flex-end;
+}
+main > img {
+    padding: 15px;
+    height: 350px;
+    float: right;
+}
