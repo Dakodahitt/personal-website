@@ -53,11 +53,12 @@ main > img {
     font-size: 20px;
     padding-left: 25px;
     float: left;
-    max-width: 350px;
+    max-width: 450px;
 }
 .yoda{
     font-style: oblique;
     padding-top: 50px;
+    padding-left: 10px;
     float: left;
     font-size: 35px;
 }
