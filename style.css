@@ -38,8 +38,27 @@ nav a:hover {
     display: flex;
     justify-content: flex-end;
 }
+.Me{ 
+    float: left;
+    padding-left: 25px;
+font-size: 35px;
+}
+
 main > img {
     padding: 15px;
     height: 350px;
     float: right;
+}
+.p{ 
+    font-size: 20px;
+    padding-left: 25px;
+    float: left;
+    max-width: 450px;
+}
+.yoda{
+    font-style: oblique;
+    padding-top: 50px;
+    padding-left: 10px;
+    float: left;
+    font-size: 35px;
 }
