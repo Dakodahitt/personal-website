@@ -1,5 +1,5 @@
 html{
-    background-color: wheat;
+    background: wheat;
 }
 header{ 
     background-color: #333;
@@ -87,3 +87,20 @@ main > img {
     height: 250px;
     padding-left: 10px;
  }
+ .form{
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+ }
+ button{ background: blue;
+    font-size: 1em;
+    margin-left: 3.5em;
+}
+.d{
+    padding-top: .5em;
+}
+@media screen and (min-device-aspect-ratio: 9/16){
+    html{
+        margin: .5em;
+    }
+}
